@@ -15,6 +15,7 @@ Physical typing
 Reading and thinking
  - Comprehension(being able to understand the problem and sample inputs quickly yet thoroughly)
  - Algorithimic thinking(ability to create simple yet somewhat efficient(well, enough to evade the time limit) algorithms. Use brute force within reason)
+ - Creative thinking(ability to attack problem from all angles and find a unique way to solve your solution efficiently)
 ---
 Editing and reviewing
  - Debugging(being able to have an efficient way to find, understand and fix an error)
