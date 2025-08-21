@@ -1,12 +1,12 @@
 # Programming Contest
-Problems + Solutions(To be created)
+Problems + Solutions (To be created)
 
 Links to official websites:  
 [NZPC](https://nzprogcontest.org.nz/)  
 [South Pacific ICPC](https://sppcontests.org/south-pacific-icpc/)  
 [ICPC](https://icpc.global/)    
 
-Skills needed(team members do not need every skill but overall your team should have/develop most if not all of these skills):
+Skills needed (team members do not need every skill but overall your team should have/develop most if not all of these skills):
 ---
 Physical typing
  - Typing (usually bursts of typing with minimal mistakes)
