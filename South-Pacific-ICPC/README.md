@@ -1,6 +1,6 @@
 # Format
 
-TLDR: Simply put, you should probably practice either the problem set ending with **D** or the one ending in **DA**. If you want to practice more, practice the problem set ending with R. 
+**TLDR**: Simply put, you should probably practice either the problem set ending with **D** or the one ending in **DA**. If you want to practice more, practice the problem sets ending with R. 
 
 | File suffix | Meaning |
 | ----------- | ------- |
