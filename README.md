@@ -1,2 +1,2 @@
 # Programming Contest
-Problems + Answers(To be created)
+Problems + Solutions(To be created)
