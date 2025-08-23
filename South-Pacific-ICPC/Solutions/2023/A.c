@@ -1,3 +1,4 @@
+/*
 Problem A
 A Game of Sets
 
@@ -44,9 +45,7 @@ one squiggle green empty
 two oval purple empty
 two squiggle green solid
 5 2 4
-
-
-Solution:
+*/
 
 #include <stdio.h>
 #include <string.h>
