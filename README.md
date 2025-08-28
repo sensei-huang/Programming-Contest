@@ -9,7 +9,7 @@ Links to official websites:
 Skills needed (team members do not need every skill but overall your team should have/develop most if not all of these skills):
 ---
 Physical typing
- - Typing (usually bursts of typing with minimal mistakes)
+ - Typing (usually bursts of typing with minimal mistakes. Making templates at the start of the contest also will minimize typing)
  - Fluency in coding language (this is acquired through practice. It will be very advantageous to remember function names)
 ---
 Reading and thinking
@@ -22,6 +22,6 @@ Editing and reviewing
  - Testing (although the sample inputs are often sufficient, being able to test your parts of your own code is very useful)
 ---
 Management and team spirit
- - Teamwork (knowing what roles everyone does and working together)
+ - Teamwork (knowing what roles everyone does and working together. Being able to talk and effectively communicate ideas)
  - Time management (knowing how to spend your time wisely)
  - Perseverance (not giving up and consistently working on problems)
