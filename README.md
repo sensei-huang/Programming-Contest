@@ -1,5 +1,5 @@
 # Programming Contest
-Problems + Solutions (To be created)
+Problems + Solutions (To be created. Look at [contributing.md](CONTRIBUTING.md))
 
 Links to official websites:  
 [NZPC](https://nzprogcontest.org.nz/)  
