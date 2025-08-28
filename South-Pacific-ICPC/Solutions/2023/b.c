@@ -1,3 +1,8 @@
+/* Here’s a fast O(nm) dynamic-programming solution using affine-gap alignment (block deletion = splice with cost S+kC; mismatch transform = cost 
+T). We keep three states per cell: end with a match/mismatch (M), a gap in B (delete from A, DA), or a gap in A (delete from B, DB), and compute with rolling rows to use 
+O(m) memory. */
+
+
 #include <stdio.h>
 #include <string.h>
 #include <limits.h>
