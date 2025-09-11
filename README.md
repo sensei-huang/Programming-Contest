@@ -6,6 +6,11 @@ Links to official websites:
 [South Pacific ICPC](https://sppcontests.org/south-pacific-icpc/)  
 [ICPC](https://icpc.global/)    
 
+Scaffolding codes usually needed (Especially in low-level languages):
+---
+ - Read from the standard input of different types of variables (Strings, integers, floats, etc.)
+ - Array sorting and searching (for loops, while loops)
+
 Skills needed (team members do not need every skill but overall your team should have/develop most if not all of these skills):
 ---
 Physical typing
