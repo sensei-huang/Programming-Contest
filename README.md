@@ -25,3 +25,9 @@ Management and team spirit
  - Teamwork (knowing what roles everyone does and working together. Being able to talk and effectively communicate ideas)
  - Time management (knowing how to spend your time wisely)
  - Perseverance (not giving up and consistently working on problems)
+
+Things to bring:
+---
+ - Water
+ - Pen + paper
+ - Snacks
