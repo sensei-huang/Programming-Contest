@@ -1,5 +1,5 @@
 # Programming Contest
-Problems + Solutions (To be created. Look at [contributing.md](CONTRIBUTING.md)). 
+Problems + Solutions (To be created. Look at [contributing.md](CONTRIBUTING.md)).  
 If you have problems seeing the PDF or want to view it in-browser, look at [viewing.md](VIEWING.md).
 
 Links to official websites:  
