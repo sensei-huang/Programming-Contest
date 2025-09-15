@@ -1,5 +1,6 @@
 # Programming Contest
 Problems + Solutions (To be created. Look at [contributing.md](CONTRIBUTING.md))
+If you have problems looking at the PDF, look at [viewing.md](VIEWING.md).
 
 Links to official websites:  
 [NZPC](https://nzprogcontest.org.nz/)  
