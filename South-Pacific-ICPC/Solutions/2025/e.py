@@ -1,5 +1,4 @@
 import math
-from unittest.mock import NonCallableMagicMock
 
 set = [int(a) for a in input().split()]
 num = set.pop(0) # Number of primes
